@@ -1,12 +1,12 @@
 {
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Self-hosted mesh VPN built on WireGuard",
   "homepage": "https://rabtly.cloud",
   "license": "Proprietary",
   "architecture": {
     "64bit": {
-      "url": "https://dl.rabtly.cloud/v0.2.2/rabtly_windows_amd64.exe",
-      "hash": "3d80c9bc4da28469b5910ed770d529ed9b9951d1bced31e3e96ba80ba0c515ad"
+      "url": "https://dl.rabtly.cloud/v0.2.3/rabtly_windows_amd64.exe",
+      "hash": "0b7d8167ac770e672375ea75ee388009ef3b920f6e0c2767278b215c0f9af64b"
     }
   },
   "bin": "rabtly_windows_amd64.exe",
