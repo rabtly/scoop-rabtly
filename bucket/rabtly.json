@@ -15,7 +15,7 @@
   "architecture": {
     "64bit": {
       "url": "https://dl.rabtly.cloud/v1.4.10.052/rabtly_windows_amd64.exe",
-      "hash": "fb4864fbdfd540d68858ce25be85d86ae840fafe36c4be427be4997292577fa2",
+      "hash": "ac1f3826dade4f2a12eecdf288b711d22c7e9482bcfeed55fb5a24905329c3cb",
       "bin": [
         [
           "rabtly_windows_amd64.exe",
