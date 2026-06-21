@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
-  "version": "1.4.10.095",
+  "version": "1.4.10.096",
   "description": "WireGuard mesh VPN — Windows client",
   "homepage": "https://rabtly.cloud",
   "license": "Proprietary",
@@ -14,8 +14,8 @@
   ],
   "architecture": {
     "64bit": {
-      "url": "https://dl.rabtly.cloud/v1.4.10.095/rabtly_windows_amd64.exe",
-      "hash": "9345a5fccd34c0ea1cd44285c6ebc6e5db541538cc60d0d84977360d7f93e207",
+      "url": "https://dl.rabtly.cloud/v1.4.10.096/rabtly_windows_amd64.exe",
+      "hash": "f7348054d11b7f4d489bdb47e62aff3c254f4a9c2616ccc10a1ec39c9570141a",
       "bin": [
         [
           "rabtly_windows_amd64.exe",
